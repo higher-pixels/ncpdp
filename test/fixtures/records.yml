@@ -1,0 +1,13 @@
+:transmission_header: "\u000200T777777777               1213   201611281210T11200787505               \u0003"
+:transmission_header_hash:
+  :text_indicator: "\u0002"
+  :segment_identifier: '00'
+  :transmission_type: T
+  :sender_id: '777777777'
+  :batch_number: '1213'
+  :creation_date: '20161128'
+  :creation_time: '1210'
+  :file_type: T
+  :version: '11'
+  :receiver_id: '200787505'
+  :terminate: "\u0003"

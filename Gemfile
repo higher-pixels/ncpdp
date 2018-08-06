@@ -4,5 +4,5 @@ gemspec
 
 group :development, :test do
   gem 'shoulda-context'
-  gem 'mini-test'
+  gem 'minitest'
 end
